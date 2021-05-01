@@ -32,6 +32,13 @@
       class="btn btn-primary"
       >Oyun Kodları</a
     >
+    <a
+      href="/bambu-0115.apk"
+      target="_blank"
+      type="button"
+      class="btn btn-secondary"
+      >Android için indir</a
+    >
 
     <img src="~/assets/img/map.png" class="img-fluid" alt="map" />
   </div>
