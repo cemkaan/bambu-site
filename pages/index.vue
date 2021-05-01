@@ -39,8 +39,14 @@
       class="btn btn-secondary"
       >Android için indir</a
     >
-
-    <img src="~/assets/img/map.png" class="img-fluid" alt="map" />
+    <div class="row">
+      <div class="col-sm">
+        <img src="~/assets/img/map.png" class="img-fluid" alt="map" />
+      </div>
+      <div class="col-sm">
+        <img src="~/assets/img/4.gif" class="img-fluid" alt="map" />
+      </div>
+    </div>
   </div>
 </template>
 
