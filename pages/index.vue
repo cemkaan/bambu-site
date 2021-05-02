@@ -70,7 +70,7 @@
           >&#304;&#351;bu s&ouml;zle&#351;me &ldquo;Kardelen Ortaokulu Robot
           Tak&#305;m&#305; &nbsp;(bundan b&ouml;yle &ldquo;KARDEBOT&rdquo;
           olarak an&#305;lacakt&#305;r) ile KARDEBOT(ya da kar&#351;&#305;
-          &#351;irketin ad&#305;) Mobil IOS uygulamalar&#305;ndan yararlanan
+          &#351;irketin ad&#305;) Mobil ANDROİD uygulamalar&#305;ndan yararlanan
           Kullan&#305;c&#305; ile kar&#351;&#305;l&#305;kl&#305; olarak kabul
           edilerek y&uuml;r&uuml;rl&uuml;&#287;e girmi&#351;tir. Bu
           s&ouml;zle&#351;me mevcutta KARDEBOT m&uuml;&#351;terisi olan
