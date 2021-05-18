@@ -36,7 +36,7 @@
             >Oyun Kodları</a
           >
           <a
-            href="/bambu-0115.apk"
+            href="/bambu-18.apk"
             target="_blank"
             type="button"
             class="btn btn-secondary ml-4"
